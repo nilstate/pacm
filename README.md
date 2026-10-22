@@ -26,6 +26,6 @@ The package format is generic, but it now has first-class extension metadata so 
 That makes `pacm` the distribution layer while `graft` handles native shared-library binding after install.
 
 Read next:
-- [Pacm module guide](../../docs/modules/pacm.md)
-- [Graft module guide](../../docs/modules/graft.md)
-- [Archo module guide](../../docs/modules/archo.md)
+- [Pacm module guide](https://github.com/nilstate/icey/blob/main/docs/modules/pacm.md)
+- [Graft module guide](https://github.com/nilstate/icey/blob/main/docs/modules/graft.md)
+- [Archo module guide](https://github.com/nilstate/icey/blob/main/docs/modules/archo.md)
